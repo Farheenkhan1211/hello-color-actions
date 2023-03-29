@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "jest",
-    "build": "build"
+    "build": "node hello.js"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
